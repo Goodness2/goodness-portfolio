@@ -11,7 +11,7 @@
 
 
 ## Projects
-### Project 1: Student Performance Indicator: Building Linear Regression from Scratch
+#### Project 1: Student Performance Indicator: Building Linear Regression from Scratch
 [Click here to check out the project](https://github.com/Goodness2/Student-performance-indicator/tree/main) 
-### Project 2: Logistic Regression 
-### Project 3: Applying Dimension Reduction techniques
+#### Project 2: Logistic Regression 
+#### Project 3: Applying Dimension Reduction techniques
