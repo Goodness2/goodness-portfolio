@@ -12,6 +12,6 @@
 
 ## Projects
 ### Project 1: Student Performance Indicator using xgboost and catboost
--- [Click here to check out the project][(https://link-url-here.org)](https://github.com/Goodness2/Sales-Prediction-using-Linear-Regression/blob/main/src/utils.py) 
+[Click here to check out the project](https://github.com/Goodness2/Sales-Prediction-using-Linear-Regression/blob/main/src/utils.py) 
 ### Project 2: Logistic Regression 
 ### Project 3: Applying Dimension Reduction techniques
